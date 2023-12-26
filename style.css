@@ -10,3 +10,46 @@
 body {
   background: #eee;
 }
+nav{
+    background: #1876f2;
+    padding: 7px 0;
+    box-sizing: border-box;
+}
+
+.nav-content{
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.logo{
+    width: 160px;
+    margin-right: 45px;
+}
+
+.left-nav ul li img{
+    width: 28px;
+    margin: 0 15px;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+
+.left-nav{
+    display: flex;
+    align-items: center;
+    width: 400px;
+}
+
+
+
+.right-nav{
+    width: 500px;
+    height: 50px;
+    float: right;
+}
+
+.icons img{
+    width: 30px;
+}
