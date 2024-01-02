@@ -505,3 +505,45 @@ a {
   color: #626262;
   font-weight: 500;
 }
+
+.post-text a {
+  color: #1876f2;
+}
+
+.post-img {
+  width: 100%;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
+
+.post-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.post-activity-icons img {
+  width: 18px;
+  margin-right: 10px;
+}
+
+.post-activity-icons div {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.post-profile-icon {
+  display: flex;
+  align-items: center;
+}
+
+.post-profile-icon img {
+  width: 20px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.post-row a {
+  color: #9a9a9a;
+}
